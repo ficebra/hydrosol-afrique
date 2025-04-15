@@ -12,19 +12,19 @@ export default function Projects() {
                 </div>
                 <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
                     <ProjectCard
-                        image="etude_geotech.png"
+                        image="/etude_geotech.png"
                         title="Tour Administrative"
                         location="Abidjan, Côte d'Ivoire"
                         description="Étude géotechnique complète pour un immeuble de 20 étages"
                     />
                     <ProjectCard
-                        image="injection.jpg"
+                        image="/injection.jpg"
                         title="GINGER Hydrosol fondation"
                         location="Singrobo Ahouaty en Côte d’Ivoire"
                         description="Travaux de contrôle des injections au barrage"
                     />
                     <ProjectCard
-                        image="geotech.jpg"
+                        image="/geotech.jpg"
                         title="LABOGEXP/SOGEA SATOM CM"
                         location="Cameroun"
                         description="Campagne géotechnique pour 4 Ouvrages d’Art sur la route OLAMA-BIGAMBO"

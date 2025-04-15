@@ -22,13 +22,13 @@ export default function Activities() {
                             </p>
                         </div>
                         <div className="border-4 border-gray-200 rounded-lg overflow-hidden">
-                            <img src="atelier_forage.png" alt="Atelier de forage" className="rounded-lg shadow-xl" />
+                            <img src="/atelier_forage.png" alt="Atelier de forage" className="rounded-lg shadow-xl" />
                         </div>
                     </div>
 
                     <div className="grid md:grid-cols-2 gap-8 items-start">
                         <div className="border-4 border-gray-200 rounded-lg overflow-hidden order-2 md:order-1">
-                            <img src="sol_materiauxx.png" alt="Laboratoire" className="rounded-lg shadow-xl" />
+                            <img src="/sol_materiauxx.png" alt="Laboratoire" className="rounded-lg shadow-xl" />
                         </div>
                         <div className="order-1 md:order-2">
                             <h3 className="text-2xl font-semibold text-blue-800 mb-4">2. Laboratoire de sols et de matériaux</h3>

@@ -1,10 +1,10 @@
 // components/Partners.js
 export default function Partners() {
     const partners = [
-        { src: "logo_labosol.png", alt: "Labosol" },
-        { src: "Logo-setec.jpg", alt: "Setec" },
-        { src: "afcons.jpg", alt: "afcons" },
-        { src: "Eiffage-Logo.png", alt: "eiffage" },
+        { src: "/logo_labosol.png", alt: "Labosol" },
+        { src: "/Logo-setec.jpg", alt: "Setec" },
+        { src: "/afcons.jpg", alt: "afcons" },
+        { src: "/Eiffage-Logo.png", alt: "eiffage" },
     ];
 
     return (

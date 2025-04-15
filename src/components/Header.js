@@ -15,7 +15,7 @@ export default function Header() {
             <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
                 <div className="flex justify-between h-20 items-center">
                     <div className="flex items-center">
-                        <img className="h-12 w-auto" src="logo_ginger.png" alt="Hydrosol Afrique Logo" />
+                        <img className="h-12 w-auto" src="/logo_ginger.png" alt="Hydrosol Afrique Logo" />
                     </div>
                     <div className="hidden md:flex space-x-8">
                         <NavLinks />
